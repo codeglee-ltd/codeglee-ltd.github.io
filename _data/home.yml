@@ -1,0 +1,91 @@
+intro:
+  lead-in: "We're problem solvers"
+  heading: We'd like to help
+  btn: Have problems?
+
+services:
+  heading: We have solutions
+  subheading: Whether you're kickstarting a new project, in need of expert guidance and advice or scaling up your operations, we can help.
+  service:
+    - icon: fa fa-mobile
+      heading: Mobile
+      text: iOS, watchOS, tvOS, Android. We have enterprise-ready experience engineering mobile solutions across the major platforms.
+    - icon: fa fa-sitemap
+      heading: Architecture
+      text: With a best-practice and design pattern led approach, we can design and deliver the right architecture for the right problem.
+    - icon: fa fa-comments
+      heading: Leadership
+      text: Running with battle-tested agile methodologies, team-leadership and mentoring experience. We can help level up your developers.
+
+portfolio: # portfolio section
+  heading: [Portfolio title]
+  subheading: [Portfolio subtitle]
+
+about:
+  heading: About
+  subheading: Lorem ipsum dolor sit amet consectetur.
+  timeline:
+    - image: img/about/1.jpg
+      date: 2009-2011
+      title: Our Humble Beginnings
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    # - image: img/about/2.jpg
+    #   date: March 2011
+    #   title: An Agency is Born
+    #   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    # - image: img/about/3.jpg
+    #   date: December 2012
+    #   title: Transition to Full Service
+    #   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    # - image: img/about/4.jpg
+    #   date: July 2014
+    #   title: Phase Two Expansion
+    #   text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+
+  end1: Be Part
+  end2: Of Our
+  end3: Story!
+
+team:
+  heading: Who we are
+  subheading: We have more than 14 years enterprise-level development experience across mobile, desktop and web technologies. We've successfully led teams, grown products, improved code quality and expanded horizons.
+  members:
+
+    - name: Tristan Warner-Smith
+      role: Founder and Lead Engineer
+      img: img/team/profile.jpg
+      social-buttons:
+        - icon: fa fa-twitter
+          url: "https://twitter.com/codeglee" 
+        - icon: fa fa-linkedin
+          url: "https://www.linkedin.com/in/tristanwarnersmith/"
+
+  text: 
+
+# clients:
+#   - img: img/logos/envato.jpg
+#     url: "#"
+#   - img: img/logos/designmodo.jpg
+#     url: "#"
+#   - img: img/logos/themeforest.jpg
+#     url: "#"
+#   - img: img/logos/creative-market.jpg   
+#     url: "#"
+
+contact:
+  heading: Contact Us
+  subheading: Get in touch to see what we can do for you.
+  name: Your Name *
+  name-required: Please enter your name.
+  email: contact@codeglee.com
+  email-required: Please enter your email address.
+  phone: Your Phone *
+  phone-required: Please enter your phone number.
+  message: Your Message *
+  message-required: Please enter a message.
+  btn: Send Message
+
+  js-url: '././mail/contact_me.php'
+  js-success: 'Your message has been sent. '
+  js-error: 'Sorry " + firstName + ", it seems that our mail server is not responding. Please try again later!'
+  js-error-min: 'Sorry "+i+", it seems that our mail server is not responding. Please try again later!'

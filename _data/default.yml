@@ -1,0 +1,31 @@
+brand:
+  name: Codeglee Ltd
+menu-string: Menu
+
+nav:
+  - title: Services
+    url: '#services'
+  - title: About
+    url: '#about'
+  - title: Team
+    url: '#team'
+  - title: Contact
+    url: '#contact'
+
+copyright: Copyright &copy; Codeglee Ltd 2019
+
+social-buttons:
+  - icon: fa fa-twitter
+    url: 'https://twitter.com/codeglee' 
+  - icon: fa fa-linkedin
+    url: 'https://www.linkedin.com/in/tristanwarnersmith'
+
+quicklinks:
+  
+
+modal:
+  date-string: 'Date: '
+  client-string: 'Client: '
+  category-string: 'Category: '
+  close-icon: 'fa fa-times'
+  close-string: 'Close Project'
