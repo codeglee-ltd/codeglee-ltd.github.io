@@ -25,7 +25,7 @@ github_username:  Codeglee
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-startbootstrap-agency
+remote_theme: SotiriosVrachas/jekyll-theme-startbootstrap-agency
 plugins:
   - jekyll-feed
 
