@@ -15,7 +15,7 @@ services:
       text: With a best-practice and design pattern led approach, we can design and deliver the right architecture for the right problem.
     - icon: fa fa-comments
       heading: Leadership
-      text: Running with battle-tested agile methodologies, team-leadership and mentoring experience. We can help level up your developers.
+      text: Running with battle-tested agile methodologies, team-leadership and mentoring experience. We can help your developers level up.
 
 portfolio: # portfolio section
   heading: [Portfolio title]
