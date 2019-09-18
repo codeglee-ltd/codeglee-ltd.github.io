@@ -3,10 +3,8 @@ brand:
 menu-string: Menu
 
 nav:
-  - title: Services
-    url: '#services'
-  - title: About
-    url: '#about'
+  - title: Solutions
+    url: '#solutions'
   - title: Team
     url: '#team'
   - title: Contact
