@@ -5,10 +5,10 @@ menu-string: Menu
 nav:
   - title: Solutions
     url: '#solutions'
-  - title: Team
-    url: '#team'
-  - title: Contact
-    url: '#contact'
+  # - title: Team
+  #   url: '#team'
+  # - title: Contact
+  #   url: '#contact'
 
 copyright: Copyright &copy; Codeglee Ltd 2019
 

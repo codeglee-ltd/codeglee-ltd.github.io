@@ -1,7 +1,7 @@
 intro:
   lead-in: "We're problem solvers"
   heading: We'd like to help
-  btn: Have problems?
+  btn: But we're maxed out
 
 solutions:
   heading: We have solutions
@@ -12,7 +12,7 @@ solutions:
       text: iOS, watchOS, tvOS, Android. We have enterprise-ready experience engineering mobile solutions across the major platforms.
     - icon: fa fa-sitemap
       heading: Architecture
-      text: With a best-practice and design pattern led approach, we can design and deliver the right architecture for the right problem.
+      text: With a best-practice and design pattern-led approach, we can design and deliver the right architecture for the right problem.
     - icon: fa fa-comments
       heading: Leadership
       text: Running with battle-tested agile methodologies, team-leadership and mentoring experience. We can help your developers level up.
